@@ -101,7 +101,7 @@ const Contact = () => {
                     onChange={setdetail}
                   ></textarea>
                 </div>
-                <div className="col-12">
+                <div className="col-12 ">
                   <button
                     className="btn btn-outline-primary"
                     type="submit"
